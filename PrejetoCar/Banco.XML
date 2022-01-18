@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Class.Central>
+  <todosOsCarros/>
+  <todasAsPessoas>
+    <Class.Pessoa>
+      <nome>Daniel</nome>
+      <numeroDeTelefone>83 9999-0000</numeroDeTelefone>
+      <email>daniel@gmail.com</email>
+    </Class.Pessoa>
+    <Class.Pessoa>
+      <nome>Gaby</nome>
+      <numeroDeTelefone>1212-1212</numeroDeTelefone>
+      <email>gaby@gmail.com</email>
+    </Class.Pessoa>
+    <Class.Pessoa>
+      <nome>Daniel Silva Araújo Dos Santos</nome>
+      <numeroDeTelefone>(83) 99635-1402</numeroDeTelefone>
+      <email>danielsilvacr123@gmail.com</email>
+    </Class.Pessoa>
+  </todasAsPessoas>
+</Class.Central>
